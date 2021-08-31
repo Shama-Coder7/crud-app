@@ -1,0 +1,36 @@
+.body {
+  background-color: lightgray;
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-brand {
+  display: flex;
+  font-size: 3pc;
+  text-align: start;
+}
+.navbar {
+  display: flex;
+}
+
+.navbar-nav {
+  background-color: cadetblue;
+  height: 40px;
+  width: 105pc;
+  padding-left: 12pt;
+}
+.nav-item {
+  display: inline;
+  margin: 20px;
+  padding: 40px;
+  align-items: center;
+  text-align: justify;
+  font-size: 20pt;
+}
+
+.btn{
+    display: grid;
+    font-size: 30px;
+    text-align: end;
+
+}
